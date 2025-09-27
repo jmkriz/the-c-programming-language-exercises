@@ -15,11 +15,13 @@ int main() {
 
     printf("SIGNED INT MAX: %d\n", INT_MAX); //Ints are also signed by default
     printf("SIGNED INT MIN: %d\n", INT_MIN);
+    // TODO: FIX ME
     printf("UNSIGNED INT MAX: %d\n", UINT_MAX);
     printf("UNSIGNED INT MIN: %d\n", 0);
 
     printf("SIGNED LONG MAX: %d\n", LONG_MAX);
     printf("SIGNED LONG MIN: %d\n", LONG_MIN);
+    // TODO: FIX ME
     printf("UNSIGNED LONG MAX: %d\n", ULONG_MAX);
     printf("UNSIGNED LONG MIN: %d\n", 0);
 
